@@ -1,0 +1,22 @@
+ [
+  {
+    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
+    "options": ["Java", "Dart", "Swift", "Kotlin"],
+    "answer": "Dart"
+  },
+  {
+    "question": "Flutter ямар UI framework вэ?",
+    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
+    "answer": "Flutter"
+  },
+  {
+    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
+    "options": [
+      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
+      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
+      "StatefulWidget-д төлөв хадгалагддаггүй",
+      "StatelessWidget нь setState() ашигладаг"
+    ],
+    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
+  }
+]
