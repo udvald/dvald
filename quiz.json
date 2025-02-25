@@ -1,22 +1,27 @@
  [
   {
-    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
-    "options": ["Java", "Dart", "Swift", "Kotlin"],
-    "answer": "Dart"
+    "question": "What animal is this?",
+    "options": ["moth", "butterfly","insect" ],
+    "answer": "moth"
   },
   {
-    "question": "Flutter ямар UI framework вэ?",
+    "question": What animal is this?",
+    "options": ["sea lion", "seals", "marine creature"],
+    "answer": "seals"
+  },
+   {
+    "question": What animal is this?",
+    "options": ["cheetah", "leopard", " jaguar" ],
+    "answer": "leopard"
+  },
+   {
+    "question": What animal is this?",
     "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
     "answer": "Flutter"
   },
-  {
-    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
-    "options": [
-      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
-      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
-      "StatefulWidget-д төлөв хадгалагддаггүй",
-      "StatelessWidget нь setState() ашигладаг"
-    ],
-    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
-  }
+   {
+    "question": What animal is this?",
+    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
+    "answer": "Flutter"
+  },
 ]
