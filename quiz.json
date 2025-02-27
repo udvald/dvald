@@ -16,12 +16,12 @@
   },
    {
     "question": What animal is this?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "options": ["alligator", "crocodile", "lizard" ],
+    "answer": "alligator"
   },
    {
     "question": What animal is this?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "options": ["python", "mamba", "viper", "cobra"],
+    "answer": "mamba"
   },
 ]
