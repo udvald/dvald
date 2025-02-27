@@ -1,26 +1,31 @@
  [
   {
     "question": "What animal is this?",
+    "image_url": "https://raw.githubusercontent.com/udvald/dvald/refs/heads/main/'Faerie-Tails%20Luna'%20Moth.jpg"
     "options": ["moth", "butterfly","insect" ],
     "answer": "moth"
   },
   {
     "question": "What animal is this?",
+      "image_url": "https://raw.githubusercontent.com/udvald/dvald/refs/heads/main/🫧.jpg"
     "options": ["sea lion", "seals", "marine creature"],
     "answer": "seals"
   },
    {
     "question": "What animal is this?",
+       "image_url": "https://raw.githubusercontent.com/udvald/dvald/refs/heads/main/9473957a415e14cdd6d173b51c490ba0.jpg"
     "options": ["cheetah", "leopard", " jaguar" ],
     "answer": "leopard"
   },
    {
     "question": "What animal is this?",
+       "image_url": "https://raw.githubusercontent.com/udvald/dvald/refs/heads/main/9473957a415e14cdd6d173b51c490ba0.jpg"
     "options": ["alligator", "crocodile", "lizard" ],
     "answer": "alligator"
   },
    {
     "question": "What animal is this?",
+       "image_url": "https://raw.githubusercontent.com/udvald/dvald/refs/heads/main/Unknown.jpg"
     "options": ["python", "mamba", "viper", "cobra"],
     "answer": "mamba"
   },
