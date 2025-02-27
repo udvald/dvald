@@ -5,22 +5,22 @@
     "answer": "moth"
   },
   {
-    "question": What animal is this?",
+    "question": "What animal is this?",
     "options": ["sea lion", "seals", "marine creature"],
     "answer": "seals"
   },
    {
-    "question": What animal is this?",
+    "question": "What animal is this?",
     "options": ["cheetah", "leopard", " jaguar" ],
     "answer": "leopard"
   },
    {
-    "question": What animal is this?",
+    "question": "What animal is this?",
     "options": ["alligator", "crocodile", "lizard" ],
     "answer": "alligator"
   },
    {
-    "question": What animal is this?",
+    "question": "What animal is this?",
     "options": ["python", "mamba", "viper", "cobra"],
     "answer": "mamba"
   },
